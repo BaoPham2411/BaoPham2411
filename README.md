@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋.
 - 🔭 I’m currently a student of HCMUT.
 - 🌱 I’m currently learning Programming Fundamentals.
 
